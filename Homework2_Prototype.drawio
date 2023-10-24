@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2023-10-24T20:14:45.332Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="21.6.1" etag="kEKlavChMMVX9sPPqNq_" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-24T20:36:24.517Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="EkOhN4ozJUf1fUPCp6aM" version="21.6.1" type="github">
   <diagram name="Page-1" id="xUH634Dq2uG7ZH9OHQlJ">
-    <mxGraphModel>
+    <mxGraphModel dx="819" dy="1532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="DulXYIY7fg8Av-5RE2J2-5" value="" style="shape=rect;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-30" width="210" height="312" as="geometry" />
+        </mxCell>
+        <mxCell id="DulXYIY7fg8Av-5RE2J2-1" value="" style="dashed=0;align=center;fontSize=12;shape=rect;fillColor=#ffffff;strokeColor=none;shadow=0;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="55" y="230" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DulXYIY7fg8Av-5RE2J2-20" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.vecteezy.com/system/resources/previews/011/054/778/non_2x/setting-icon-for-apps-or-web-interface-with-button-set-of-settings-gear-cog-icon-with-button-sign-flat-style-setting-or-gear-vector.jpg;" vertex="1" parent="DulXYIY7fg8Av-5RE2J2-1">
+          <mxGeometry x="155" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DulXYIY7fg8Av-5RE2J2-2" value="Chats" style="dashed=0;html=1;shape=mxgraph.gmdl.recents;fillColor=none;strokeColor=none;fontColor=#808080;verticalAlign=top;spacingLeft=0;fontSize=10;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingBottom=0;spacingTop=-6;hachureGap=4;pointerEvents=0;fontFamily=Helvetica;" vertex="1" parent="DulXYIY7fg8Av-5RE2J2-1">
+          <mxGeometry x="0.15" y="0.5" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-10" y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DulXYIY7fg8Av-5RE2J2-3" value="Contacts" style="dashed=0;html=1;shape=mxgraph.gmdl.heart;fillColor=none;strokeColor=none;fontColor=#00796B;verticalAlign=top;spacingLeft=0;fontSize=10;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingBottom=0;spacingTop=-5;hachureGap=4;pointerEvents=0;fontFamily=Helvetica;" vertex="1" parent="DulXYIY7fg8Av-5RE2J2-1">
+          <mxGeometry x="0.5" y="0.5" width="20" height="18" relative="1" as="geometry">
+            <mxPoint x="-10" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DulXYIY7fg8Av-5RE2J2-4" value="Settings" style="dashed=0;html=1;shape=mxgraph.gmdl.nearby;fillColor=none;strokeColor=none;fontColor=#808080;verticalAlign=top;spacingLeft=0;fontSize=10;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingBottom=0;spacingTop=-6;hachureGap=4;pointerEvents=0;fontFamily=Helvetica;" vertex="1" parent="DulXYIY7fg8Av-5RE2J2-1">
+          <mxGeometry x="0.85" y="0.5" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-10" y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DulXYIY7fg8Av-5RE2J2-18" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://png.pngtree.com/element_our/20190528/ourmid/pngtree-contact-icon-image_1144778.jpg;" vertex="1" parent="DulXYIY7fg8Av-5RE2J2-1">
+          <mxGeometry x="87.5" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="DulXYIY7fg8Av-5RE2J2-19" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.creativefabrica.com/wp-content/uploads/2023/05/28/Chat-icon-Black-messages-symbol-Commun-Graphics-70762992-1.png;" vertex="1" parent="DulXYIY7fg8Av-5RE2J2-1">
+          <mxGeometry x="15" y="0.83" width="35" height="23.34" as="geometry" />
+        </mxCell>
+        <mxCell id="DulXYIY7fg8Av-5RE2J2-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#393536;fontColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-30" width="210" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
